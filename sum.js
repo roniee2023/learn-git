@@ -1,4 +1,4 @@
-let function mul( x , y) {
+function mul( x , y) {
     return x*y;
 }
-console.log(mul(5,6));
+console.log('the multification of' & mul(5,6));
